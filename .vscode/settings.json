@@ -1,0 +1,17 @@
+{
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "eslint.quiet": true,
+    "eslint.codeAction.disableRuleComment": {
+        "enable": false
+    },
+    "eslint.probe": [
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown"
+    ]
+}
